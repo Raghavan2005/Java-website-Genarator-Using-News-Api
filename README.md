@@ -10,4 +10,6 @@ Get Your Api Key And Paste on here:
 
 Its Save all Html Files in WWW
 
+And You Can Edit The Style in WWW/Style/Style.css For all html Files and its single css.
+
 # And Its not fully completed...
