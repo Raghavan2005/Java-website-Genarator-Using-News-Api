@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100&display=swap');
+
+body {background-image: linear-gradient(red, yellow);
+font-family: 'Public Sans', sans-serif;}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+h1 {
+  text-align: center;
+}
+h2{
+ text-align: justify;
+}
+img {
+  border-radius: 8px;
+  align: center;
+}
+a {
+float: right;
+}
